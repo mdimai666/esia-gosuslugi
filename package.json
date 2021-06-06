@@ -19,7 +19,6 @@
   "license": "MIT",
   "homepage": "https://github.com/kmorpex/esia-gosuslugi#readme",
   "dependencies": {
-    "@chilkat/ck-node12-macosx": "^9.50.82",
     "axios": "^0.19.2",
     "gost-crypto": "^1.1.4",
     "jwt-decode": "^2.2.0",
